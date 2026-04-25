@@ -110,18 +110,14 @@ The project is designed with a clean UI/UX and follows modern frontend developme
 ![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20154011.png)  
 ![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20154057.png)  
 ![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153440.png)  
-![Chatbot Page]()  
-![Chatbot Page]()  
-![Chatbot Page]()  
+![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20160255.png)  
 
-![Chatbot Page]()  
-![Chatbot Page]()  
-![Chatbot Page]()  
-![Chatbot Page]()  
-![Chatbot Page]()  
-![Chatbot Page]()  
-![Chatbot Page]()  
-
+Admin Panel:
+![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20160559.png)  
+![Chatbot Page](http://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20160610.png)  
+![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20160624.png)  
+![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20160638.png)  
+![Chatbot Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20160646.png)  
 
 ---
 
