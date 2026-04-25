@@ -96,10 +96,11 @@ The project is designed with a clean UI/UX and follows modern frontend developme
 Add your project screenshots here:
 
 ![Home Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153031.png)  
+![Portfolio Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153310.png)  
 ![Wallet Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153145.png)  
 ![News Page]( https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153507.png) 
 ![Trading Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153127.png)  
-![Portfolio Page](https://github.com/gaurav152003/Cryptex-frontend/blob/main/Screenshot%202026-04-25%20153310.png)  
+
 ![News Page]()  
 ![Chatbot Page]()  
 ![Chatbot Page]()  
