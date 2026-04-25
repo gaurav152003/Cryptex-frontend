@@ -19,6 +19,7 @@ The project is designed with a clean UI/UX and follows modern frontend developme
 - **State Management:** Redux Toolkit  
 - **Routing:** React Router DOM  
 - **Styling:** Tailwind CSS / CSS  
+- **UI Components:** shadcn/ui  
 - **HTTP Client:** Axios  
 - **Payment Integration:** Razorpay / Stripe  
 - **Icons:** React Icons / Lucide React  
